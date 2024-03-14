@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title> HTML Template </title>
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script>
+function myFunction()
+{ document.write("Oops! The document disappeared!"); }
+</script>
+
+
+	</head>
+
+	<body>
+		<h1>My First Web Page</h1>
+<p>My First Paragraph</p>
+<button onclick="myFunction()">Try it</button>
+
+	</body>
+</html> 
